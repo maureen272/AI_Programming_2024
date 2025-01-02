@@ -1,0 +1,8 @@
+Japan, Asia, 377975
+China, Asia, 9596961
+India, Asia, 3287263
+Brazil, South America, 8515767
+Russia, Europe, 17098242
+South Korea, Asia, 100210
+USA, North America, 9833517
+Germany, Europe, 357022
